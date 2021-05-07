@@ -1,0 +1,5 @@
+Demo del juego Snake para practicar el uso de JS con HTML/CSS
+
+estas es una solucion Demo que no esta completa y que busca mostrar los primeros pasos en el uso de Javascript
+para realizar este juego lo correcto es hacer uso de CANVAS
+
